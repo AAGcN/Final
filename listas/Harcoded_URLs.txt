@@ -1,0 +1,66 @@
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/drive.appdata
+
+com.google.android.gms.measurement.internal.zzdw
+	https://app-measurement.com/a
+
+
+com.google.android.gms.internal.measurement.zzno
+	https://app-measurement.com/a
+
+com.google.android.gms.measurement.internal.zzky	
+	https://goo.gl/NAOOOI
+
+com.google.android.gms.auth.api.signin.GoogleSignInOptions
+	https://www.googleapis.com/auth/games_lite
+
+com.google.android.gms.internal.measurement.zzee
+	https://goo.gl/J1sWQy
+
+com.marbleinteractive.BiteBurger.network.repository.RetrofitHelper:20
+	https://7uzmiokv.directus.app
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/games
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/drive
+
+com.google.android.gms.ads.identifier.zza
+	https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps
+
+com.google.android.gms.measurement.internal.zzky
+	https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&amp;sdk_version=%s&amp;rdid=%s&amp;bundleid=%s&amp;retry=%s
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/plus.login
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/datastoremobile
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/drive.apps
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/games_lite
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/drive.file
+
+com.marbleinteractive.BiteBurger.network.utils.Properties
+	https://7uzmiokv.directus.app
+
+com.google.android.gms.common.FirstPartyScopes
+	https://www.googleapis.com/auth/games.firstparty
+
+androidx.compose.runtime.ComposerKt:3466
+	https://goo.gle/compose-feedback
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/plus.me
+
+com.google.android.gms.common.Scopes
+	https://www.googleapis.com/auth/appstate
+
+com.google.android.gms.auth.api.signin.GoogleSignInOptions
+	https://www.googleapis.com/auth/games
